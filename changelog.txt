@@ -1,0 +1,101 @@
+Superfluous Nodes Changelog - 2019-2025
+Created by @Geonovast, unofficial continuation by @munktron239
+
+----------------------------------------------------------------------------------------------------
+
+0.1 - 1/25/2019
+-Initial release
+
+0.2 - 1/26/2019
+-Changed zip structure
+-Added Nodes to:
+-RCS Ball
+-RCS Tanks
+-Wings (@ioresult)
+-Cargo Bays
+-Nosecones (@Tonka Crash)
+
+0.3 - 1/31/2019
+-Added nodes to:
+-Landing Gear (wheels)
+-Space Shuttle wings + flaps
+-Octostrut
+-Mk1 Lander can
+-Truss adapter
+-Radial parachutes
+-Fixed reversed nodes on Mk2 Cargo bay
+-Changed attachment rules for command seat to allow use of both nodes at the same time
+
+0.4 - 5/15/2019
+-Added a few more parts
+-Added patch for RV-105 v2 introduced in 1.7.0, which needed different numbers from the first version
+-Integrated B9PartSwitch as a dependency
+-Large number of parts now have switching for multiple node options
+
+0.5 - 6/5/2019
+-MH: Added black variants to structural tubes and engine plates
+-BG: Added nodes to robotic hinges
+-KRE: Added nodes to hex leg mount
+
+0.6 - 6/10/2019 | Hotfix
+-Fixed the issue with nodes not moving correctly when changing Target Angle on Breaking Ground hinges in the VAB/SPH
+
+0.7 - 5/9/2022
+-Added nodes for new parts in 1.12
+-Removed top node for RCS block due to the part variants having 5-way. This line is just commented out, uncomment to get the node back
+-Reworked the Engine plate and tube patches to a much shorter wildcard based method
+
+0.8 - 11/19/2023 | Last update by @Geonovast
+-Added version file
+-Fixed spacing issues with light attachRules
+-Added new node for shielded docking port
+-Added node for sas controller (MoarActionables)
+
+----------------------------------------------------------------------------------------------------
+
+0.9 - 10/15/2025 | Unreleased beta, work begins on 1.0
+-Downloaded SuperfluousNodes off of CKAN
+-Got annoyed with how unorganized the mod was
+-Figured I might as well give reviving it a shot
+-Finished localization of all titles
+-Organized all files
+-Added timeline to changelog.txt
+-Added notes that described what each added node is for
+-Started work on adding nodes to more parts
+
+0.9.5 - 11/10/2025 | Finishing up work for 1.0
+-Massive improvements to MM code structure
+-Added descriptions for all node types
+-Unified moduleIDs for all patches
+-Added nodes to tons of other parts
+-Finished up localization strings
+-Added 5 different toggleable PatchManager patches
+-Made B9PartSwitch no longer a hard requirement, but still suggested
+-Migration to GitHub for source code
+-Uploaded YouTube video of progress made
+
+1.0 - 11/19/2025
+-2 year anniversary of final mod update
+-Continuation by munktron239
+-Rebranded as 'Superfluous Nodes Renoded'
+-Localization of entire mod
+-Overhauled entire file structure
+-Improved ModuleManager patching
+-Improved many nodes to better fit Restock models
+-PatchManager support added - choose what nodes you want!
+-StackSymmetry added to many parts that have symmetrical nodes
+-New parts with more nodes:
+-Structural wings, service bays, structural pieces, cargo parts, and much more
+
+----------------------------------------------------------------------------------------------------
+
+1.0.1 - Late 2025 | Planned Hotfix
+-Hotfixes for issues that I surely will miss
+-Add more nodes to parts
+
+1.1 - 2026
+-Add even more nodes to parts
+-More PatchManager patches
+-Fix parts not mirroring correctly?
+-Increase # of mods supported
+-Contact @Geonovast
