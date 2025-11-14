@@ -54,7 +54,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 ----------------------------------------------------------------------------------------------------
 
 0.9 - 10/15/2025 | Unreleased beta, work begins on 1.0
--Downloaded SuperfluousNodes off of CKAN
+-Downloaded SuperfluousNodes from CKAN
 -Got annoyed with how unorganized the mod was
 -Figured I might as well give reviving it a shot
 -Finished localization of all titles
@@ -73,6 +73,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Made B9PartSwitch no longer a hard requirement, but still suggested
 -Migration to GitHub for source code
 -Uploaded YouTube video of progress made
+-Finally got around to aligning nodes with stock models
 
 1.0 - 11/19/2025
 -2 year anniversary of final mod update
@@ -84,7 +85,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Improved many nodes to better fit Restock models
 -PatchManager support added - choose what nodes you want!
 -StackSymmetry added to many parts that have symmetrical nodes
--New parts with more nodes:
+-New parts with even more nodes:
 -Structural wings, service bays, structural pieces, cargo parts, and much more
 
 ----------------------------------------------------------------------------------------------------
@@ -92,6 +93,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 1.0.1 - Late 2025 | Planned Hotfix
 -Hotfixes for issues that I surely will miss
 -Add more nodes to parts
+-Align more nodes with stock models
 
 1.1 - 2026
 -Add even more nodes to parts
