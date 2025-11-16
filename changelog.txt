@@ -8,7 +8,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 
 0.2 - 1/26/2019
 -Changed zip structure
--Added Nodes to:
+-Added nodes to:
 -RCS Ball
 -RCS Tanks
 -Wings (@ioresult)
@@ -63,13 +63,13 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Added notes that described what each added node is for
 -Started work on adding nodes to more parts
 
-0.9.5 - 11/10/2025 | Finishing up work for 1.0
+0.9.5 - 11/15/2025 | Finishing up work for 1.0
 -Massive improvements to MM code structure
--Added descriptions for all node types
--Unified moduleIDs for all patches
+-Added short descriptions for all node types
+-Made moduleIDs consistent for all patches
 -Added nodes to tons of other parts
 -Finished up localization strings
--Added 5 different toggleable PatchManager patches
+-Added 6 different toggleable PatchManager patches
 -Made B9PartSwitch no longer a hard requirement, but still suggested
 -Migration to GitHub for source code
 -Uploaded YouTube video of progress made
@@ -77,16 +77,16 @@ Created by @Geonovast, unofficial continuation by @munktron239
 
 1.0 - 11/19/2025
 -2 year anniversary of final mod update
--Continuation by munktron239
+-Unofficial continuation by munktron239
 -Rebranded as 'Superfluous Nodes Renoded'
 -Localization of entire mod
 -Overhauled entire file structure
 -Improved ModuleManager patching
--Improved many nodes to better fit Restock models
+-Improved many nodes to better fit both stock and Restock models
 -PatchManager support added - choose what nodes you want!
--StackSymmetry added to many parts that have symmetrical nodes
+-Added stackSymmetry to many parts that have symmetrical nodes
 -New parts with even more nodes:
--Structural wings, service bays, structural pieces, cargo parts, and much more
+-Spaceplane tanks, crewed modules, service bays, structural pieces, cargo parts, and so much more
 
 ----------------------------------------------------------------------------------------------------
 
