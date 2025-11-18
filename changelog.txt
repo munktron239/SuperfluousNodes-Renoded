@@ -13,7 +13,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -RCS Tanks
 -Wings (@ioresult)
 -Cargo Bays
--Nosecones (@Tonka Crash)
+-Nosecones (@TonkaCrash)
 
 0.3 - 1/31/2019
 -Added nodes to:
@@ -73,6 +73,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Made B9PartSwitch no longer a hard requirement, but still suggested
 -Migration to GitHub for source code
 -Uploaded YouTube video of progress made
+-Gave credit to everyone who requested nodes to be added
 -Finally got around to aligning nodes with stock models
 
 1.0 - 11/19/2025
@@ -85,6 +86,7 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Improved many nodes to better fit both stock and Restock models
 -PatchManager support added - choose what nodes you want!
 -Added stackSymmetry to many parts that have symmetrical nodes
+-Added support for many more mods, with stolen values from zer0Kerbal ('NodeDazzler')
 -New parts with even more nodes:
 -Spaceplane tanks, crewed modules, service bays, structural pieces, cargo parts, and so much more
 
@@ -92,12 +94,13 @@ Created by @Geonovast, unofficial continuation by @munktron239
 
 1.0.1 - Late 2025 | Planned Hotfix
 -Hotfixes for issues that I surely will miss
--Add more nodes to parts
+-Add nodes to all requests asked for in the original SuperfluousNodes thread
 -Align more nodes with stock models
+-Add more nodes to parts
 
 1.1 - 2026
--Add even more nodes to parts
 -More PatchManager patches
 -Fix parts not mirroring correctly?
 -Increase # of mods supported
+-Add even more nodes to parts
 -Contact @Geonovast
