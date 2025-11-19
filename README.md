@@ -1,6 +1,11 @@
-# SuperfluousNodes-Renoded
+# Superfluous Nodes Renoded
 Unofficial continuation of Superfluous Nodes, originally created by @Geonovast. Adds a plethora of nodes to a ridiculous amount of parts!
 
-Dependincies: ModuleManager
-Reccomended: B9PartSwitch, PatchManager
-Supports: KerbalReusabilityExpansion, MissingHistory, KWRocketrySimpleAdjustabkeFairijgs, MoarAcrionables
+# Dependencies:
+ModuleManager
+
+# Reccomended:
+B9PartSwitch, PatchManager
+
+# Supports parts from:
+Stock + both DLC, KerbalReusabilityExpansion, MissingHistory, SimpleAdjustableFairings_KWRocketry, MoarActionables, Interkosmos, SCANSat, SmartParts, StockalikeStationPartsExpansionRedux, TrackingLights
