@@ -63,13 +63,13 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Added notes that described what each added node is for
 -Started work on adding nodes to more parts
 
-0.9.5 - 11/15/2025 | Finishing up work for 1.0
+0.9.5 - 11/15/2025 | Unreleased beta, finishing up work for 1.0
 -Massive improvements to MM code structure
 -Added short descriptions for all node types
 -Made moduleIDs consistent for all patches
 -Added nodes to tons of other parts
 -Finished up localization strings
--Added 6 different toggleable PatchManager patches
+-Added 7 different toggleable PatchManager patches
 -Made B9PartSwitch no longer a hard requirement, but still suggested
 -Migration to GitHub for source code
 -Uploaded YouTube video of progress made
@@ -83,12 +83,13 @@ Created by @Geonovast, unofficial continuation by @munktron239
 -Localization of entire mod
 -Overhauled entire file structure
 -Improved ModuleManager patching
+-Fixed issue with parts not mirroring correctly
 -Improved many nodes to fit both stock and Restock models
 -PatchManager support added - choose what nodes you want!
 -Added stackSymmetry to many parts that have symmetrical nodes
--Added support for many more mods, with stolen values from zer0Kerbal ('NodeDazzler')
+-Added support for many more mods, borrowed from zer0Kerbal (NodeDazzler repository)
 -New parts with even more nodes:
--Spaceplane tanks, crewed modules, service bays, structural pieces, cargo parts, and so much more
+-Spaceplane tanks, crewed modules, service bays, structural pieces, cargo parts, and much much more!
 
 ----------------------------------------------------------------------------------------------------
 
