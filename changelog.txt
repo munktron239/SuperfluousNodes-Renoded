@@ -94,10 +94,15 @@ Created by @Geonovast, unofficial continuation by @munktron239
 ----------------------------------------------------------------------------------------------------
 
 1.0.1 - Late 2025 | Planned Hotfix
--Hotfixes for issues that I will surely miss
+-Hotfixes:
+-Fixed: naming of PatchManager patches
+-Fixed: node_attach on some parts
+-Fixed: parts not attaching correctly with mirror symmetry
+-To-Do:
 -Add nodes to all requests asked for in the original SuperfluousNodes thread
 -Align more nodes with stock models
 -Add more nodes to parts
+-KerbalChangelog support?
 
 1.1 - 2026
 -More PatchManager patches
